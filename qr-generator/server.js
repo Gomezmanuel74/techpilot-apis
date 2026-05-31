@@ -1,0 +1,1 @@
+Full code for Smart QR Generator with logo support and high error correction.

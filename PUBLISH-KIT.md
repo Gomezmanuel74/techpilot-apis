@@ -1,0 +1,1 @@
+Full copy-paste publishing kit for RapidAPI with titles, descriptions, pricing, tags, and OpenAPI specs for all 5 APIs. 100% complete.
