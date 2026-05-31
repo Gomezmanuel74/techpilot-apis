@@ -1,0 +1,1 @@
+One-command setup script for local testing
